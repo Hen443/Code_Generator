@@ -4,7 +4,7 @@ from pynput.keyboard import Key, Controller
 keyboard = Controller()
 
 
-numeric = int(input("Gago "))
+numeric = int(input("Enter "))
 i = 1
 q = 0
 
